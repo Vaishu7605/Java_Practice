@@ -82,6 +82,6 @@ public class operators {
         // Bitwise Operators
         // Ternary Operator
         int marks = 57;
-        System.err.println((marks >= 40) ? "pass" : "false");
+        System.out.println((marks >= 40) ? "pass" : "false");
     }
 }

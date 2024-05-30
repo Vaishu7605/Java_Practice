@@ -13,9 +13,9 @@ public class user_input {
         System.out.println("You entered " + number);
 
         // Getting float input
-        System.err.println("Enter float: ");
+        System.out.println("Enter float: ");
         float myFloat = input.nextFloat();
-        System.err.println("Float entered = " + myFloat);
+        System.out.println("Float entered = " + myFloat);
 
         // Getting double input
         System.out.print("Enter double: ");
@@ -26,6 +26,23 @@ public class user_input {
         System.out.print("Enter text: ");
         String myString = input.next();
         System.out.println("Text entered = " + myString);
+        // form 
+        // System.out.println("Enter your Name: ");
+        // String myString1 = input.next();
+        // System.out.println("Enter your Father's Name: ");
+        // String myString2 = input.next();
+        // System.out.println("Enter your Mother's Name: ");
+        // String myString3 = input.next();
+        // System.out.println("Enter your Mobile No.: ");
+        // String myString4 = input.next();
+        // System.out.println("Enter your Email: ");
+        // String myString5 = input.next();
+        // System.out.println("Enter your Address: ");
+        // String myString6 = input.next();
+        // System.out.println("Enter your Gender: ");
+        // String myString7 = input.next();
+        // System.out.println("Enter your Highest Qualification: ");
+        // String myString8 = input.next();
 
     }
 }
